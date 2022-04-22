@@ -7,7 +7,7 @@ permalink: /
 # ＧANTZ  
 [引用元のWIKI](https://ja.wikipedia.org/wiki/GANTZ)  
 |　ジャンル | 関連作品 |　アニメ　|  
-|-----|-----|-----|  
+|----|----|----|  
 | 成年漫画 | GANTZ G | 全26話　|  
  
 ## あらすじ　　
